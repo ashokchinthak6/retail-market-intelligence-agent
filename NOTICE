@@ -1,0 +1,14 @@
+Retail Market Intelligence Agent
+Copyright 2026 Ashok Chinthakindi
+
+This project incorporates and adapts portions of the Market Research Agent
+from Google ADK Samples:
+https://github.com/google/adk-samples/tree/main/contrib/python/market-research-agent
+
+Copyright 2026 Google LLC. The upstream work and this derivative project are
+licensed under the Apache License, Version 2.0. Files adapted from the upstream
+sample retain the applicable Google copyright and license notices.
+
+Modifications include a retail-specific orchestration workflow, deterministic
+scoring tools, validation models, portfolio documentation, tests, and CI.
+
